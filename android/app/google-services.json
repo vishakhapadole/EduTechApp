@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709568083335",
+    "project_id": "edu-ps3",
+    "storage_bucket": "edu-ps3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709568083335:android:669996a8682be768048f22",
+        "android_client_info": {
+          "package_name": "com.eduapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlzWCneIcDbqKmY--K5KnemkUb-FxFMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
