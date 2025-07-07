@@ -99,3 +99,6 @@ To learn more about React Native, take a look at the following resources:
 =======
 # EduTechApp
 >>>>>>> b23ea9a43ca03300fab3129b4afee9aefc54bb24
+>>>>>>> [![App Screenshot](./Screenshot/thumb.png)](./Screenshot/SS.pdf)
+>>>>>>> [![Watch the video](https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](./Screenshot/EdutechRecording.mp4)
+
